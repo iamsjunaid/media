@@ -1,0 +1,142 @@
+{
+  "users": [
+    {
+      "id": "7214",
+      "name": "Cary Watsica Sr."
+    },
+    {
+      "id": "5ba7",
+      "name": "Patty Schmidt"
+    },
+    {
+      "id": "a352",
+      "name": "Marshall Flatley"
+    },
+    {
+      "id": "e151",
+      "name": "Damon Schimmel"
+    },
+    {
+      "id": "33cb",
+      "name": "Rick Connelly"
+    },
+    {
+      "id": "14b7",
+      "name": "Rogelio Becker"
+    }
+  ],
+  "albums": [
+    {
+      "id": "0ba7",
+      "userId": null,
+      "name": "Intelligent Bronze Gloves"
+    },
+    {
+      "id": "9b7e",
+      "userId": "7214",
+      "name": "Generic Fresh Tuna"
+    },
+    {
+      "id": "8486",
+      "userId": null,
+      "name": "Awesome Frozen Pants"
+    },
+    {
+      "id": "d06d",
+      "userId": "7214",
+      "name": "Generic Cotton Chair"
+    },
+    {
+      "id": "764b",
+      "userId": null,
+      "name": "Refined Cotton Ball"
+    },
+    {
+      "id": "8eae",
+      "userId": null,
+      "name": "Licensed Steel Ball"
+    },
+    {
+      "id": "fbc5",
+      "userId": "9b7e",
+      "name": "Tasty Wooden Pants"
+    },
+    {
+      "id": "3677",
+      "userId": "9b7e",
+      "name": "Handcrafted Frozen Towels"
+    },
+    {
+      "id": "bd98",
+      "userId": "9b7e",
+      "name": "Tasty Rubber Towels"
+    },
+    {
+      "id": "24e1",
+      "userId": "9b7e",
+      "name": "Practical Fresh Car"
+    },
+    {
+      "id": "a95d",
+      "userId": "9b7e",
+      "name": "Incredible Cotton Shoes"
+    },
+    {
+      "id": "72ed",
+      "userId": "9b7e",
+      "name": "Unbranded Frozen Chair"
+    },
+    {
+      "id": "3731",
+      "userId": "9b7e",
+      "name": "Sleek Plastic Chips"
+    },
+    {
+      "id": "5a67",
+      "userId": "9b7e",
+      "name": "Licensed Cotton Chips"
+    },
+    {
+      "id": "94ca",
+      "userId": "9b7e",
+      "name": "Electronic Fresh Keyboard"
+    },
+    {
+      "id": "a4d1",
+      "userId": "9b7e",
+      "name": "Elegant Granite Tuna"
+    },
+    {
+      "id": "72e8",
+      "userId": "9b7e",
+      "name": "Luxurious Wooden Shoes"
+    },
+    {
+      "id": "272d",
+      "userId": "9b7e",
+      "name": "Unbranded Soft Mouse"
+    }
+  ],
+  "photos": [
+    {
+      "id": "6212",
+      "albumId": "9b7e",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4166492694249472"
+    },
+    {
+      "id": "4d67",
+      "albumId": "9b7e",
+      "url": "https://loremflickr.com/640/480?lock=4312822089515008"
+    },
+    {
+      "id": "5d62",
+      "albumId": "9b7e",
+      "url": "https://picsum.photos/seed/hvhbqy/640/480"
+    },
+    {
+      "id": "9fa3",
+      "albumId": "9b7e",
+      "url": "https://loremflickr.com/640/480?lock=8945683948109824"
+    }
+  ]
+}
